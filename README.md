@@ -13,10 +13,11 @@ Frontend folder
 
 if everything OK. you will see frontend client website at http://localhost:3000 and you can test it now.
 
-Backend REST api endpoint mustbe
-http://localhost:8080/api/guardian/list  for GET lists Guardian article
 
-http://localhost:8080/api/guardian/detail/ for GET Guardian article detail
+Backend REST api endpoint mustbe
+- http://localhost:8080/api/guardian/list  for GET lists Guardian article
+- http://localhost:8080/api/guardian/detail/ for GET Guardian article detail
+
 
 Frontend Website at http://localhost:3000 will have home page and detail page for display Guardian article
 
