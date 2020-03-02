@@ -16,7 +16,7 @@ if everything OK. you will see frontend client website at http://localhost:3000 
 
 Backend REST api endpoint mustbe
 - http://localhost:8080/api/guardian/list  for GET lists Guardian article
-- http://localhost:8080/api/guardian/detail/ for GET Guardian article detail
+- http://localhost:8080/api/guardian/detail/:articleId for GET Guardian article detail
 
 
 Frontend Website at http://localhost:3000 will have home page and detail page for display Guardian article
