@@ -2,14 +2,14 @@
 Test Full-Stack Dev from sevenpeaks
 
 Backend folder
-use command line to inside folder 'backend'
-run command "npm install" will download node_module
-run command "npm start" it will start backend server at port 8080 (http://localhost:8080)
+- use command line to inside folder 'backend'
+- run command "npm install" will download node_module
+- run command "npm start" it will start backend server at port 8080 (http://localhost:8080)
 
 Frontend folder
-open another command line and go to inside folder 'frontend'
-run command "npm install" will download node_module
-run command "npm start" it will start frontend client at port 3000 (http://localhost:3000)
+- open another command line and go to inside folder 'frontend'
+- run command "npm install" will download node_module
+- run command "npm start" it will start frontend client at port 3000 (http://localhost:3000)
 
 if everything OK. you will see frontend client website at http://localhost:3000 and you can test it now.
 
